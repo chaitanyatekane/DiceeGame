@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  margin-top: 1%;
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #363a41;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 1.7rem;
+  color: #4ECCA3;
+  font-family: 'Rubik', sans-serif;
+}
+
+img {
+  margin-top: 1.9rem;
+  width: 80%;
+}
+.playagain {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+footer {
+  margin-top: 3%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.1rem;
+
+}
